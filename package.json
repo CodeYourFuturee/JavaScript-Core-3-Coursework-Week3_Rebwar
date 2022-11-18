@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --testRegex='exercises/exercise-1[/\\\\].*\\.js$'"
+    "test1": "jest --testRegex='exercises/exercise-1[/\\\\].*\\.js$'",
+    "test2": "jest --testRegex='exercises/exercise-2[/\\\\].*\\.js$'",
+    "test3": "jest --testRegex='exercises/exercise-3[/\\\\].*\\.js$'"
   },
   "repository": {
     "type": "git",
