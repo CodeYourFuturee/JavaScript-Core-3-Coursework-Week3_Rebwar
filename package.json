@@ -1,0 +1,22 @@
+{
+  "name": "javascript-core-3-coursework-week3_rebwar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testRegex='exercises/exercise-1[/\\\\].*\\.js$'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYourFuturee/JavaScript-Core-3-Coursework-Week3_Rebwar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeYourFuturee/JavaScript-Core-3-Coursework-Week3_Rebwar/issues"
+  },
+  "homepage": "https://github.com/CodeYourFuturee/JavaScript-Core-3-Coursework-Week3_Rebwar#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
